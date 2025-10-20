@@ -1,0 +1,5 @@
+ID,Movies,Language,Release Year,Genre,Director,OTT Platform,Prequel ID,Sequel ID,Cover Image URL,
+1,RRR,Telugu,2022,Action,S. S. Rajamouli,Netflix,–,–,https://postimg.cc/gallery/ry0wRWR,
+2,Jawan,Hindi,2023,Action,Atlee,Netflix,–,–,https://postimg.cc/Kkj5YPy5,
+3,Baahubali: The Beginning,Telugu,2015,Action,S. S. Rajamouli,JioHotstar,–,4,https://postimg.cc/ZC7DF5w9,
+4,Baahubali 2: The Conclusion,Telugu,2017,Action,S. S. Rajamouli,JioHotstar,3,–,https://postimg.cc/xkh2sPgh,
